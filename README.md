@@ -13,8 +13,12 @@ I created this project using ARKit and RealityKit (primarily), which is able to 
 ## Gif
 ### Using Focus Entity
 ![Using Focus Entity](https://github.com/harrywang7121/ARkit-ModelPlacement-Proj/blob/main/focus.gif?raw=true)
+/n
+/n
 ### Model Placement
 ![Model Placement](https://github.com/harrywang7121/ARkit-ModelPlacement-Proj/blob/main/place.gif?raw=true)
+/n
+/n
 ### Occulusion
 ![Occulusion1](https://github.com/harrywang7121/ARkit-ModelPlacement-Proj/blob/main/occulusion.gif?raw=true)
 ![Occulusion2](https://github.com/harrywang7121/ARkit-ModelPlacement-Proj/blob/main/occulusion2.gif?raw=true)
