@@ -10,7 +10,8 @@ I created this project using ARKit and RealityKit (primarily), which is able to 
 * iOS 13
 
 
-![image](https://github.com/WorkerAmo/ARKitPlusVR/blob/master/demo00.gif)
+## Gif
+![image](https://github.com/harrywang7121/ARkit-ModelPlacement-Proj/blob/main/focus.gif?raw=true)
 
 ![image](https://github.com/WorkerAmo/ARKitPlusVR/blob/master/demo02.gif)
 
