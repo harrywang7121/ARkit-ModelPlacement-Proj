@@ -56,7 +56,6 @@ struct ModelPickerView: View {
 }
 
 
-
 class ThumbnailGenerator: ObservableObject {
     
     @Published var thumbnailImage: [String: Image] = [:]
